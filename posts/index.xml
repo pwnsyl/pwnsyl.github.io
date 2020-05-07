@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on @pwnsyl</title>
+		<link>https://localhost:1313/posts/</link>
+		<description>Recent content in Posts on @pwnsyl</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 06 May 2020 13:44:17 +0300</lastBuildDate>
+		<atom:link href="https://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Technique for layering drum samples. (Mid/Side)</title>
+			<link>https://localhost:1313/posts/music/create-depth-in-drum-sounds/</link>
+			<pubDate>Wed, 06 May 2020 13:44:17 +0300</pubDate>
+			
+			<guid>https://localhost:1313/posts/music/create-depth-in-drum-sounds/</guid>
+			<description>Introduction I discovered this technique while I was trying to create a song only with Ableton&amp;rsquo;s bundled stuff. So I was forced into thinking of alternative ways to create cool sounding hihats.
+That basically lead to this layout:
+ Dividing the hihat sound into 3 layers.  One channel for the Mid signal Two Channels panned left/right for the sides signal    Controlling the drums ADSR (Attack, Decay, Sustain, Release) will be happeing into the samples itself.</description>
+			<content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>I discovered this technique while I was trying to create a song only with Ableton&rsquo;s
+bundled stuff. So I was forced into thinking of alternative ways to create cool sounding
+hihats.</p>
+<p>That basically lead to this layout:</p>
+<ul>
+<li>Dividing the hihat sound into 3 layers.
+<ol>
+<li>One channel for the Mid signal</li>
+<li>Two Channels panned left/right for the sides signal</li>
+</ol>
+</li>
+</ul>
+<p>Controlling the drums ADSR (Attack, Decay, Sustain, Release) will be happeing into
+the samples itself. The goal is to create a similar an cohereant sounding signals.
+That resulted into a really nice souding hihat using only the stock samples.</p>
+<p>I extened this and created a template layout for layering sounds. Which you can
+downloading below.</p>
+<p><a href="https://www.google.com">Layering Mid_Side.als</a></p>
+<h2 id="breakdown-into-the-layers">Breakdown into the layers:</h2>
+<p>Mid&rsquo;s group has an EQ which is set in Mid/Side Mode, where I&rsquo;ve deleted the sides signal.
+This channel will be playing only the mid signal.</p>
+<p>Sides group is divided into 2 channels both of which are panneld <strong>50L</strong> and <strong>50R</strong></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
